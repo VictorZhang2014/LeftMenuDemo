@@ -1,10 +1,14 @@
 # LeftMenuDemo  
 
+
 左滑菜单主要实现功能的类文件是
 ```
 BDLeftMenuView.h
 BDLeftMenuView.m
-```
+``` 
+![demo.jpeg](https://github.com/VictorZhang2014/LeftMenuDemo/blob/master/demo.jpeg)
+![demo.jpeg](https://github.com/VictorZhang2014/LeftMenuDemo/blob/master/demo.gif)
+
 
 ## 使用方法 
 如果是Objective-C，先导入头文件
