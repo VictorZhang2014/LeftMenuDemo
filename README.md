@@ -7,7 +7,6 @@ BDLeftMenuView.h
 BDLeftMenuView.m
 ``` 
 ![demo.jpeg](https://github.com/VictorZhang2014/LeftMenuDemo/blob/master/demo.jpeg)
-![demo.jpeg](https://github.com/VictorZhang2014/LeftMenuDemo/blob/master/demo.gif)
 
 
 ## 使用方法 
