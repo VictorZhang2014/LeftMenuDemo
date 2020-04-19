@@ -26,7 +26,7 @@ static NSString *kBDLeftMenuViewEventNotification = @"kBDLeftMenuViewEventNotifi
 // 启用屏幕边缘拖拽
 + (void)enableScreenEdgeDraggingInView:(UIView *)edgeSelfView;
 
-
+// 修改用户信息
 - (void)changeUserInfo:(NSDictionary *)userInfo;
 
 // 修改菜单列表的数据  比如：切换语言时，或者新增，或者删除列表项时
